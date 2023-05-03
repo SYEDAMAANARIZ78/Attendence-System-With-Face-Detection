@@ -1,0 +1,2 @@
+send msg through whatsapp
+data encryption using random all 5 algorithm
